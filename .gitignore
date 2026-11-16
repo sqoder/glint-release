@@ -1,0 +1,8 @@
+# Glint Official Release
+.DS_Store
+macOS-Native/
+website/
+.workbuddy/
+.worktrees/
+.qoder/
+.trae/
